@@ -1,4 +1,5 @@
 As of April 2016, this project is not maintained anymore. Much faster versions of cross-process synchronized and persistent data structures will soon appear in the [Spreads](https://github.com/Spreads/Spreads) library.
+Note:this project is not maintained anymore.
 
 MMDataStructures
 ==================
